@@ -276,9 +276,7 @@
       <!-- Se rellena dinámicamente -->
     </div>
 
-    <div style="text-align:center;margin-top:1.5rem;">
-      <button class="btn-download" onclick="descargarPDF()">⬇ Descargar diagnóstico en PDF</button>
-    </div>
+
   </div>
 
   <div class="faq-section">
@@ -570,6 +568,10 @@ function mostrarResultado(d) {
   if (parsed.cierre) {
     html += `<div class="cierre-box">${parsed.cierre}</div>`;
   }
+
+  html += `<div style="text-align:center;margin-top:2rem;">
+    <button class="btn-download" onclick="descargarPDF()">⬇ Descargar diagnóstico en PDF</button>
+  </div>`;
 
   card.innerHTML = html;
 
