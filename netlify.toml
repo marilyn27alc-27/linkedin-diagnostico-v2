@@ -1,0 +1,12 @@
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+[functions."resultado"]
+  timeout = 26
+
+[functions."iniciar"]
+  timeout = 26
+
+[functions."diagnostico"]
+  timeout = 26
