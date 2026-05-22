@@ -40,7 +40,7 @@ Para CADA sección escribe EXACTAMENTE esto, una tras otra sin separadores:
 Ejemplo de optimización: "[ejemplo concreto y accionable]"
 
 Una vez escritas las 8 secciones (Foto de perfil, Banner, Titular, Acerca de, Experiencia, Educación, Aptitudes, Palabras clave), escribe en una línea nueva:
-Puntaje final: XX/60 puntos
+Puntaje final: XX/80 puntos
 
 Inmediatamente después, en la siguiente línea, escribe el párrafo de cierre en segunda persona (máximo 250 caracteres). Una sola vez. No lo repitas dentro de ninguna sección.
 
